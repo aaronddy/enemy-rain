@@ -1,0 +1,29 @@
+#background {
+    display: block;
+    margin: auto;
+    width: 700px;
+    top: 200px;
+    position: relative;
+}
+
+.hero {
+    position: absolute;
+    background: url("./images/hero.png");
+    width: 35px;
+    height: 54px;
+    background-position: 0px;
+    margin-left: 50%;
+
+    top: 650px;
+}
+
+.enemy {
+    position: absolute;
+    background: url("./images/enemy.png");
+    width: 45px;
+    height: 54px;
+    background-position: 0px;
+    top: 220px;
+    margin-left: 50%;
+
+}
